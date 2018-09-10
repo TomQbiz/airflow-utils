@@ -1,5 +1,4 @@
-# airflow-utils
-Airflow utilities
+#Airflow utilities
 
 The `pause_all_dags.py` script pauses all DAGs, with the option to whitelist dags
 
